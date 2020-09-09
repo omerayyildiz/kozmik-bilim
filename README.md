@@ -1,16 +1,16 @@
 # KOZMİK BİLİM ARŞİV
-![Science Picture](science.gif)
+![Science Picture](lib.jpg)
 
 ## 🤔 Bu Repo Nedir?
-### Kozmik Bilim sunucusunun eski aktifliğini yitirmesi sebebiyle sunucu içerisinde bulunan tüm link ve pdfleri indirip düzenlemeye karar verdim.
+Kozmik Bilim sunucusunun eski aktifliğini yitirmesi sebebiyle sunucu içerisinde bulunan tüm link ve pdfleri indirip düzenlemeye karar verdim.
 
 ## 🔎 Arşivlerin İçinde Neler Var?
-### Çoğunlukla sağlık ve tıp alanında dergiler, videolar, makaleler ve web sayfaları bulunuyor fakat birçok daldan arşiv bulmanız mümkün. 
+Çoğunlukla sağlık ve tıp alanında dergiler, videolar, makaleler ve web sayfaları bulunuyor fakat birçok daldan arşiv bulmanız mümkün. 
 
 ## 🔗 Arşiv Güvenli Mi?
-### Linkler çoğu YouTube ve cloud depolama linkleridir. Fakat bu depolamaların içindeki belgeler çok fazla olduğundan dolayı virüs taramasını yapamadım. Virüslü dosya tespit ederseniz issue açabilirsiniz.
+Linkler çoğu YouTube ve cloud depolama linkleridir. Fakat bu depolamaların içindeki belgeler çok fazla olduğundan dolayı virüs taramasını yapamadım. Virüslü dosya tespit ederseniz issue açabilirsiniz.
 
-# KISAYOLLAR
+# ⚡️ KISAYOLLAR
 ## **Linkler**
 - [#bilim](links/bilim.md)
 - [#egitici-linkler](links/egitici-linkler.md)
