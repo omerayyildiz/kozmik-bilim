@@ -22,7 +22,7 @@ Linkler çoğu YouTube ve cloud depolama linkleridir. Fakat bu depolamaların i�
 ## **Dökümanlar**
 - [Anna Freud Ben ve Savunma Mekanizmaları](documents/anna-freud-savunma-mekanizmalari.pdf)
 
-- [Bei_Suizid-_und_Selbstmord-Gefahrdung_gilt_es_Anzeichen_und_Signale_rechtzeitig_zu_erkennen__Stiftun](documents/Bei_Suizid-_und_Selbstmord-Gefahrdung_gilt_es_Anzeichen_und_Signale_rechtzeitig_zu_erkennen__Stiftun.pdf)
+- [Bei_Suizid-_und_Selbstmord-Gefahrdung...](documents/Bei_Suizid-_und_Selbstmord-Gefahrdung_gilt_es_Anzeichen_und_Signale_rechtzeitig_zu_erkennen__Stiftun.pdf)
 
 - [Diyet Ve Kadınlar Üzerindeki Etkileri](documents/diyet-ve-kadinlar.pdf)
 
